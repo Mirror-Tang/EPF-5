@@ -2,6 +2,8 @@
 
 Ethereum Protocol Fellowship Cohort 5 - Experience sharing on ZK Security
 
+# Circom Audit Learning
+
 ## Week 1
 
 ### Objectives:
@@ -72,5 +74,54 @@ Ingonyama CTF
 
 Metatrust CTF ZKPlus
 
+## ZK Risk Level Description
+
+<table>
+  <tr>
+    <td>Risk level</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>High Risk</td>
+    <td>The issue can lead to substantial financial, reputation, availability, or privacy damage.</td>
+  </tr>
+    <tr>
+    <td>Medium Risk</td>
+    <td>The issue can lead to moderate financial, reputation, availability, or privacy damage. Or the issue can lead to substantial damage under extreme and unlikely circumstances.</td>
+  </tr>
+    <tr>
+    <td>Low Risk</td>
+    <td>The issue does not pose an immediate security threat, but may be a lack of following best practices or more easily lead to the future introductions of bugs.</td>
+  </tr>
+    <tr>
+    <td>Informational</td>
+    <td>Information not relevant to security, but may be helpful for efficiency, costs, etc..</td>
+  </tr>
+</table>
+
+## Circuit Check List
+
+<table>
+  <tr>
+    <td>Classification</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>Completeness Check</td>
+    <td>Completeness Check</td>
+  </tr>
+    <tr>
+    <td>Soundness Check</td>
+    <td>Underconstrained input/output signal  |  Underconstrained component  |  Arithmetic operation correctness check  |  Bit length check(Range check) </td>
+  </tr>
+    <tr>
+    <td>Knowledge Leakage</td>
+    <td>Trusted Setup Leakage  |  Public information leakage privacy  </td>
+  </tr>
+    <tr>
+    <td>Architeture Design</td>
+    <td>E.g. H(x)=y with limited value of x</td>
+  </tr>
+</table>
 
 
