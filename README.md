@@ -16,27 +16,19 @@ Learn to write Circom circuits using Tornado Cash as an example
 
 ### Study Tasks:
 
-Read the official documentation of the Circom circuit language
+Read the [official documentation](https://docs.circom.io/) of the Circom circuit language
 
-Read the 0xPARC Circom study section
+Read the [0xPARC Circom study section](https://learn.0xparc.org/)
 
-Get familiar with the circom + snarkjs toolchain and the online development platform zkrepl provided by iden3
+Get familiar with the [circom](https://github.com/iden3/circom) + [snarkjs](https://github.com/iden3/snarkjs) toolchain and the online development platform [zkrepl](https://zkrepl.dev/) provided by iden3
 
-Learn Circom circuit writing using Tornado Cash as an example
+Learn Circom circuit writing using [Tornado Cash](https://docs.tornadoeth.cash/tornado-cash-classic/circuits) as an example
 
-### Github:
+Github: Deeply understand the principles of the [Tornado Cash project](https://github.com/tornadocash/tornado-core/tree/master/circuits)
 
-Deeply understand the principles of the Tornado Cash project
+Explore [other zk projects](https://github.com/arnaucube/awesome-circom) based on Circom, such as: [Dark Forest](https://github.com/darkforest-eth/circuits)  [Semaphore](https://github.com/semaphore-protocol/semaphore/tree/main/packages/circuits)
 
-Explore other zk projects based on Circom, such as:
-
-Dark Forest
-
-Semaphore
-
-### Extension:
-
-Understand the application prospects of ZK technology in the web3 industry
+Extension: Understand the [application prospects](https://github.com/arnaucube/awesome-circom) of ZK technology in the web3 industry
 
 ## Week 2
 
@@ -50,13 +42,13 @@ Learn to use auditing tools
 
 ### Study Tasks:
 
-Read "Security of ZKP projects: same but different"
+Read "[Security of ZKP projects: same but different](https://www.aumasson.jp/data/talks/zksec_zk7.pdf)"
 
-Read the 0xPARC ZK Bug Tracker
+Read the [0xPARC ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker/blob/main/README.md)
 
-Read audit reports, currently focusing on Circom projects
+Read [audit reports](https://github.com/nullity00/zk-security-reviews),-currently focusing on Circom projects
 
-Learn to use auditing tools like PICUS and CODA
+Learn to use auditing tools like [PICUS](https://github.com/Veridise/Picus) and [CODA](https://github.com/Veridise/Coda)
 
 ## Week 3
 
@@ -66,13 +58,12 @@ Further understand ZK security
 
 ### Study Tasks:
 
-Learn through puzzles in ZKHack, which involve more proof systems such as STARK, not just limited to SNARK
+Learn through puzzles in [ZKHack](https://zkhack.dev/), which involve more proof systems such as STARK, not just limited to SNARK
 
 ### Learn through puzzles in ZKCTF:
 
-Ingonyama CTF
+[Ingonyama CTF](https://hackmd.io/@shuklaayush/SkWizdyBh)
 
-Metatrust CTF ZKPlus
 
 ## ZK Risk Level Description
 
